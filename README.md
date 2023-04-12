@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 🤯 Salutations!
 
-### Here's a master from University of Electronic Science and Technology of China (UESTC), majoring in Computer Science and Technology.
+### Here's a master from UESTC, majoring in Computer Science and Technology.
 
 My homepage: TODO
 
