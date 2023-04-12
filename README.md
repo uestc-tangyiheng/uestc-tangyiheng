@@ -34,7 +34,7 @@ My homepage: TODO
 
 ### 💻 Equipments
 
-![iPhone 14](https://img.shields.io/badge/-iPhone_14_Pro-655DBB?style=flat&logo=apple&logoColor=BFACE2)
+![iPhone 14](https://img.shields.io/badge/-iPhone_14-655DBB?style=flat&logo=apple&logoColor=BFACE2)
 ![MacBook Pro 14’ 2021](https://img.shields.io/badge/-MacBook_Pro_14’_2021-white?style=flat&logo=apple&logoColor=7D7D7D)
 
 ### 👾 Games
